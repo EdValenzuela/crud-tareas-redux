@@ -1,3 +1,23 @@
+# Primer paso
+
+Para instalar las dependencias
+```javascript
+npm i
+```
+
+correr el proyecto con npm start
+
+# Segundo paso
+
+correr una segunda terminal con el JSON Server con un puerto distinto
+
+```javascript
+json-server db.json --port 4000
+```
+# En caso de error
+```javascript
+npm i -g json-server
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
